@@ -1,0 +1,11 @@
+Metric,Four-Factor Strategy,Two-Factor Strategy,SPY Benchmark
+Total Return,3.9059,3.4418,3.1549
+CAGR,0.174,0.1623,0.1545
+Annualized Volatility,0.1692,0.1699,0.1796
+Sharpe Ratio,0.9033,0.8413,0.7678
+Sortino Ratio,1.1099,1.032,0.9233
+Maximum Drawdown,-0.2657,-0.2846,-0.3372
+Calmar Ratio,0.6548,0.5703,0.4582
+Annualized Alpha,0.0362,0.0302,
+Beta,0.8459,0.8173,
+Information Ratio,0.1883,0.0551,
